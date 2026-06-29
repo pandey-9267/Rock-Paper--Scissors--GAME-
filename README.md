@@ -6,7 +6,7 @@ A simple browser-based Rock Paper Scissors game built with HTML, CSS, and JavaSc
 
 
 ## Preview
-
+<img width="606" height="595" alt="Screenshot 2026-06-29 145725" src="https://github.com/user-attachments/assets/1158449b-02dc-48da-a94c-6a81355da4ca" />
 
 ## Features
 
